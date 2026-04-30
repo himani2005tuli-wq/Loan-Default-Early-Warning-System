@@ -38,8 +38,11 @@ This project predicts loan default risk using machine learning models and classi
 - Early identification of high-risk customers
 - Helps reduce Non-Performing Assets (NPAs)
 - Enables proactive loan management
-
+  
 ---
 
+## 📁 Live demo
+http://localhost:8502
+
 ## 📁 Dataset
-UCI Credit Card Dataset
+UCI Credit Card Dataset (https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
